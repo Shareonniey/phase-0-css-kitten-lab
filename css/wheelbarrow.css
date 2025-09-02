@@ -1,8 +1,8 @@
-html {
+div #img {kitten: -1px;
   background: url(../images/beautiful-day.jpg) no-repeat top center;
 }
 
-img {
+img kitten-1 {
   position: relative;
   z-index: 11;
   cursor: pointer;
